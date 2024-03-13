@@ -1,0 +1,293 @@
+
+body{
+    background: rgb(67, 45,200);
+}
+input{
+    border: none;
+    border-radius: none;
+    outline: none;
+    height: 50px;
+    width: 250px;
+    background-color: transparent;
+    font-size: 18px;
+    padding-left: 13px;
+}
+button{
+    border: none;
+    height: 45px;
+    background-color:turquoise;
+    cursor: pointer;
+    font-size: 15px;
+    color:white;
+    border-radius: 10px;
+    width: 60px;   
+}
+.container{
+    margin: 100px;
+    margin-top: 55px;
+    cursor: pointer;
+    border: o solid white;
+    border-radius: 10px;
+    width: 340px;
+    height: 600px;
+    background-color: white;
+    margin-left: 5px;
+    overflow-y:scroll;
+}
+.container::-webkit-scrollbar{
+    display: none;
+}
+::placeholder{
+    font-size: 15px;
+}
+#products{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+#products img{
+    width: 70px;
+    height: 70px;
+    margin-left: 10px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+#products h2{
+    margin-left: 10px;
+    font-size: 17px;
+}
+.product1{
+    margin-left: 40px;
+    width: 90px;
+    background-color: blue;
+}
+::placeholder{
+    font-size: 15px;
+}
+form{
+    border-bottom: 2px solid black;
+}
+.product1{
+    padding: 0px;
+    width: 70px;
+    margin-left: 75px;
+    font-size: 12px;
+    height: 35px;
+}
+.product2{
+    width: 70px;
+    height: 35px;
+    margin-left: 65px;
+    padding: 0px;
+    background-color: blue;
+    font-size: 12px;
+
+}
+.product3{
+    width: 70px;
+    height: 35px;
+    margin-left: 90px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product4{
+    width: 70px;
+    height: 35px;
+    margin-left: 5px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product5{
+    width: 70px;
+    height: 35px;
+    margin-left: 40px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product6{
+    width: 70px;
+    height: 35px;
+    margin-left: 50px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product7{
+    width: 70px;
+    height: 35px;
+    margin-left: 98px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product8{
+    width: 70px;
+    height: 35px;
+    margin-left: 80px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product9{
+    width: 70px;
+    height: 35px;
+    margin-left: 60px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product10{
+    width: 70px;
+    height: 35px;
+    margin-left: 88px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product11{
+    width: 70px;
+    height: 35px;
+    margin-left: 110px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product12{
+    width: 70px;
+    height: 35px;
+    margin-left: 80px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product13{
+    width: 70px;
+    height: 35px;
+    margin-left: 97px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product14{
+    width: 70px;
+    height: 35px;
+    margin-left: 87px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product15{
+    width: 70px;
+    height: 35px;
+    margin-left: 65px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product16{
+    width: 70px;
+    height: 35px;
+    margin-left: 78px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product17{
+    width: 70px;
+    height: 35px;
+    margin-left: 98px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product18{
+    width: 70px;
+    height: 35px;
+    margin-left: 55px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product19{
+    width: 70px;
+    height: 35px;
+    margin-left: 90px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product20{
+    width: 70px;
+    height: 35px;
+    margin-left: 90px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product21{
+    width: 70px;
+    height: 35px;
+    margin-left: 78px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product22{
+    width: 70px;
+    height: 35px;
+    margin-left: 78px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product23{
+    width: 70px;
+    height: 35px;
+    margin-left: 115px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product24{
+    width: 70px;
+    height: 38px;
+    margin-left: 40px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product25{
+    width: 70px;
+    height: 35px;
+    margin-left: 55px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product26{
+    width: 70px;
+    height: 35px;
+    margin-left: 63px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product27{
+    width: 70px;
+    height: 35px;
+    margin-left: 83px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
+.product28{
+    width: 70px;
+    height: 35px;
+    margin-left: 95px;
+    background-color: blue;
+    padding: 0px;
+    font-size: 12px;
+}
